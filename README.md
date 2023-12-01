@@ -21,7 +21,7 @@ Welcome to AthenX, a powerful Text-based Game Engine that puts the creative cont
 ## How to Use AthenX
 
 1. **Download:**
-   - Clone or download the AthenX repository to your local machine.
+   - Clone or [download](https://github.com/KingVentrix007/Text-Game-engine/releases) the AthenX repository to your local machine.
 
 2. **Explore the Examples:**
    - Open the provided `map2.json` to see an example story. Customize it to fit your narrative.
