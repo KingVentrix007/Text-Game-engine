@@ -4,13 +4,15 @@ Welcome to AthenX, a powerful Text-based Game Engine that puts the creative cont
 
 ## Features
 
-### Free Version:
+### Free Version
+
 - Create captivating text-based adventures with ease.
 - Define different locations and characters using JSON states.
 - Navigate through the story with the "set_state" action word.
 - A lightweight introduction to game development.
 
-### Pro Version (Paid):
+### Pro Version (Paid)
+
 - Unlock advanced features for a richer gaming experience.
 - Include images for locations, enhancing visual storytelling.
 - Access additional action words like "fight," "talk," and more.
@@ -26,15 +28,17 @@ Welcome to AthenX, a powerful Text-based Game Engine that puts the creative cont
 
 3. **Run the Engine:**
    - Execute the main Python script to start the engine.
-   ```bash
+
+   ```sh
    python main.py
     ``````
+
     Follow the on-screen instructions to navigate through your interactive story.
 4. **Request Modifications:**
    - While the main code is closed source, we encourage you to request modifications. We're here to help tailor AthenX to your unique vision.
 
-
 # Get Started
+
 Unleash your creativity and build immersive text-based adventures effortlessly. AthenX is not just a game engine; it's a framework for your storytelling journey. Dive in, create, and let the magic unfold!
 
 For any inquiries or modification requests, feel free to reach out.
