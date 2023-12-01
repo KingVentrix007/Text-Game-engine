@@ -1,4 +1,4 @@
-# AthenX Text Game Engine
+# Olympus Tek: Text Game Engine
 
 Welcome to AthenX, a powerful Text-based Game Engine that puts the creative control in your hands. Instead of being confined by hardcoded game logic, AthenX allows you to craft your own interactive stories using simple JSON code.
 
@@ -21,7 +21,7 @@ Welcome to AthenX, a powerful Text-based Game Engine that puts the creative cont
 ## How to Use AthenX
 
 1. **Download:**
-   - Clone or [download](https://github.com/KingVentrix007/Text-Game-engine/releases) the AthenX repository to your local machine.
+   - Clone or [download](https://github.com/KingVentrix007/Text-Game-engine/releases) the Olympus Tek: Text Game Engine(HermesScript) repository to your local machine.
 
 2. **Explore the Examples:**
    - Open the provided `map2.json` to see an example story. Customize it to fit your narrative.
@@ -35,7 +35,7 @@ Welcome to AthenX, a powerful Text-based Game Engine that puts the creative cont
 
     Follow the on-screen instructions to navigate through your interactive story.
 4. **Request Modifications:**
-   - While the main code is closed source, we encourage you to request modifications. We're here to help tailor AthenX to your unique vision.
+   - While the main code is closed source, we encourage you to request modifications. We're here to help tailor Olympus Tek Text Game Engine to your unique vision.
 
 # Get Started
 
